@@ -1,4 +1,6 @@
 ## Git Instruction
+
+Repository - is a place where the things are storing. 
 * At first step you have to initialize the repository. Enter *git init*.
 * The second step is saving changes.  
 * The third is adding the file to track. Enter *git add "file name"*.
