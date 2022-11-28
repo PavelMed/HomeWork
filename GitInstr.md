@@ -16,3 +16,4 @@ GIT - is a system that recordes the file changes. If necessary, author can back 
 * *git config --global user.email "your e-mail"* - configuration of your e-mail
 * *git config --global user.name "your name"* - configuration of your name
 * *clear* - clearing of the terminal
+* *git branch "branch name"* - adding the new branch
