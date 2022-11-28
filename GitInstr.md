@@ -1,4 +1,4 @@
-## Git Instruction
+## Git instruction
 
 Repository - is a place where the things are storing. 
 
